@@ -1,0 +1,4 @@
+rootProject.name = 'html-remover-project'
+include 'html-removing-application'
+include 'html-remover'
+
